@@ -11,5 +11,5 @@ Current goals for this project involve moving experiments out of libraries such 
 ##More
 For more information make sure to:
 -   Check out [the official site.](http://webtypographyforthelonely.com).
--   Follow the project and other related stuff on [Twitter](twitter.com/lonelytype).
+-   Follow the project and other related stuff on [Twitter](http://twitter.com/lonelytype).
 -   Listen to [The Get Up Kids](http://www.rdio.com/#/artist/The_Get_Up_Kids) and cry about how nobody understands you.      
